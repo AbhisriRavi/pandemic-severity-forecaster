@@ -1,6 +1,6 @@
 # Pandemic Severity Forecaster
 
-> 14-day COVID-19 case forecasting across 6 countries using live epidemiological data, LightGBM with quantile regression, and a continent-level fairness audit.
+> 14-day COVID-19 case forecasting across 6 countries (scalable to 100+) using live epidemiological data, LightGBM with quantile regression, and a continent-level fairness audit.
 
 ![Forecast Tab](reports/figures/forecast_tab.jpeg)
 ![Insights Tab](reports/figures/insights_tab_01.jpeg)
