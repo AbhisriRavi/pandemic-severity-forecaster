@@ -1,0 +1,33 @@
+# Core
+pandas>=2.2,<3.0
+numpy>=1.26,<2.0
+pyarrow>=15.0
+
+# HTTP
+requests>=2.31
+tenacity>=8.2
+tqdm>=4.66
+
+# ML / stats
+scikit-learn>=1.4
+lightgbm>=4.3
+statsmodels>=0.14
+prophet>=1.1.5
+
+# Deep learning
+torch>=2.2
+
+# Visualisation & dashboard
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.20
+streamlit>=1.32
+
+# Notebooks
+jupyterlab>=4.1
+ipykernel>=6.29
+
+# Dev
+pytest>=8.1
+black>=24.3
+ruff>=0.3
